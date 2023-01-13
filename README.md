@@ -1,16 +1,15 @@
-# awesome_notifications_demo
+# Awesome Notifications Demo
+It is a demo app for displaying local notifications via the awesome_notifications package.
 
-A new Flutter project.
+## Features
+- Instant notification
+- Instant notification with big picture
+- Instant notification with custom sound
+- Action notification
+- Scheduled notification
+- Cancel last notifications
+- Cancel all notifications
+- Cancel all scheduled notifications
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Preview
+![alt text](https://i.postimg.cc/PrpmRGz1/imgonline-com-ua-twotoone-9a3-Dg-XFo-Q9bo-Hy.png "img")
